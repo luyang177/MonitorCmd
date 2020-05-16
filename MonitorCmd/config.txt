@@ -1,0 +1,3 @@
+﻿cmd
+javas3link
+C:\Users\Administrator\Desktop\javas3link.lnk
